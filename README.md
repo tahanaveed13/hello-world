@@ -9,5 +9,7 @@
 # Welcome to ENTR-451
 
 Week 1 Yayyyy
-Practice
+Practice Now
+New Practice
+
 
